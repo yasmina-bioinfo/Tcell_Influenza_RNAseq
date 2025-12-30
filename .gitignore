@@ -1,0 +1,15 @@
+# ---- Large data (do not version) ----
+data_GSE149689/raw/
+data_GSE149689/processed/
+
+# Safety
+*.h5ad
+*.mtx
+*.mtx.gz
+*.tsv.gz
+*.h5
+*.hdf5
+
+# OS / editor
+.DS_Store
+Thumbs.db
